@@ -6,9 +6,9 @@ elfinder implements a java servlet for elfinder connector.
 elfinder is an Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.
 see also http://elfinder.org
 
-<img src="https://github.com/renzg/elfinder/blob/0.9/23205811_gr0b.png?raw=true" width=500>
+<img src="https://github.com/renzg/elfinder/blob/master/23205811_gr0b.png?raw=true" width=500>
 
-<img src="https://github.com/renzg/elfinder/blob/0.9/23205833_rxSV.png?raw=true" width=500>.
+<img src="https://github.com/renzg/elfinder/blob/master/23205811_gr0b.png?raw=true" width=500>.
 importing elfinder
 
 This project based on  elfinder-2.x-servlet.
@@ -26,7 +26,7 @@ use
 
 to add dependency in your pom.xml
 
-building elfinder-2.x-servlet
+building elfinder
 ====================
 the source files includes:
 
