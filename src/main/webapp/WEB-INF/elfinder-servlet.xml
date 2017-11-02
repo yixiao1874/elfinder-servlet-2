@@ -70,13 +70,13 @@
 						<entry key="A">
 							<bean class="cn.bluejoe.elfinder.localfs.LocalFsVolume">
 								<property name="name" value="Application" />
-								<property name="rootDir" value="/c" />
+								<property name="rootDir" value="/E:/go" />
 							</bean>
 						</entry>
 						<entry key="B">
 							<bean class="cn.bluejoe.elfinder.localfs.LocalFsVolume">
 								<property name="name" value="Nginx" />
-								<property name="rootDir" value="/usr" />
+								<property name="rootDir" value="/F:/howtomcatworks" />
 							</bean>
 						</entry>
 						<!--
